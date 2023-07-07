@@ -10,7 +10,7 @@
 126元/季，每月重置250G流量  
 156元/季，每月重置400G流量  
 ...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/byg1.png)  
+![Image text](https://github.com/woniujieshuo/fee-based/blob/main/IMG/byg1.png)  
 
 
 ****
@@ -19,7 +19,7 @@
 105元/季，每月重置420G流量  
 135元/季，每月重置540G流量  
 ...
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/bty.png)      
+![Image text](https://github.com/woniujieshuo/fee-based/blob/main/IMG/bty.png)      
 ****
 <details>
 
@@ -30,7 +30,7 @@
 145元/季，每月重置400G流量  
 52元/永久，共500G流量  
 ...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/iqzone.png)  
+![Image text](https://github.com/woniujieshuo/fee-based/blob/main/IMG/iqzone.png)  
 
 ****
 ### :white_check_mark:[少数派](https://sspcloud.net/#/register?code=rNNaMZb2)  
@@ -38,21 +38,21 @@
 130元/季，每月重置300G流量    
 258元/年，一次性1.2T流量
 ...  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/SSP.png)  
+![Image text](https://github.com/woniujieshuo/fee-based/blob/main/IMG/SSP.png)  
 ****
 ### :white_check_mark:[CYLINK](https://cylink.wtf/auth/register?code=Y1NE)   
 52.8元/季，每季重置368G流量  
 82.8元/季，每季重置688G流量  
 ....  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/CYLINK.png)  
+![Image text](https://github.com/woniujieshuo/fee-based/blob/main/IMG/CYLINK.png)  
 ****
 ### :white_check_mark:[大哥云](https://www.dageyun.net/#/register?code=79MYGsGa)  
 69元/季，每月重置200G流量  
 129元/季，每月重置300G流量  
 ....  
-![Image text](https://github.com/deezertidal/fee-based/blob/main/IMG/dgy.png)  
+![Image text](https://github.com/woniujieshuo/fee-based/blob/main/IMG/dgy.png)  
 ****
 </details>
 
-[科学上网工具](https://github.com/deezertidal/freevpn/blob/main/tools.md)   
+[科学上网工具](https://github.com/woniujieshuo/freevpn/blob/main/tools.md)   
 
