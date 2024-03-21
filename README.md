@@ -12,6 +12,12 @@
 ...  
 ![Image text](https://github.com/woniujieshuo/fee-based/blob/main/IMG/byg1.png)  
 
+****  
+## 自用:white_check_mark:[袋鼠加速](https://daishu01.com/#/register?code=CyODmCJv)  
+支持抖音改IP
+...  
+![Image text](https://github.com/woniujieshuo/fee-based/blob/main/IMG/daishu.png)  
+
 
 ****
 ## :white_check_mark:[比特云](https://bityun.org/#/register?code=l4JWS3e6)  
