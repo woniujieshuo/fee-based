@@ -5,7 +5,7 @@
     
 ****  
 
-## 自用:white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=DX4iT5B4)  
+## 自用:white_check_mark:[白月光](https://www.bygcloud.com/#/register?code=zXAxhh3k)  
 99元/季，每月重置150G流量  
 126元/季，每月重置250G流量  
 156元/季，每月重置400G流量  
@@ -14,7 +14,7 @@
 
 
 ****
-## :white_check_mark:[比特云](https://bityun.org/#/register?code=4vUl1lTB)  
+## :white_check_mark:[比特云](https://bityun.org/#/register?code=l4JWS3e6)  
 75元/季，每月重置255G流量  
 105元/季，每月重置420G流量  
 135元/季，每月重置540G流量  
